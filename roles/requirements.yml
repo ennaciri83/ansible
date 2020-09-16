@@ -1,0 +1,3 @@
+---
+#INSTALLATION DE WORDPRESS
+  - src: https://github.com/ennaciri83/ansible-role-containerized-wordpress.git
